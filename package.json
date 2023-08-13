@@ -1,7 +1,7 @@
 {
   "name": "killphrase",
   "version": "0.1.0",
-  "homepage": "https://dejectwashere.github.io/killphrase.github.io",
+  "homepage": "https://dejectwashere.github.io/killphrase",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
